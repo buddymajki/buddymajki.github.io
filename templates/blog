@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>Blog Template</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Blog-Template.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.5.3, nicepage.com">
+    <link rel="icon" href="images/favicon.png">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Dr Mohos Miklos",
+		"url": "index.html",
+		"logo": "images/mikiiculogo2.png"
+}</script>
+    <meta property="og:title" content="Blog Template">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#ff7070">
+    <link rel="canonical" href="index.html">
+    <meta property="og:url" content="index.html">
+  <script>
+    function gdprConfirmed() {
+        return true;
+    }
+    if (gdprConfirmed()) {
+    document.write("\
+    \
+    <!-- Google Analytics -->\
+    <gascript async src=\"https://www.googletagmanager.com/gtag/js?id=G-P44TTE8XG7\"></gascript>\
+    <gascript>\
+        window.dataLayer = window.dataLayer || [];\
+        function gtag(){dataLayer.push(arguments);}\
+        gtag('js', new Date());\
+        gtag('config', 'G-P44TTE8XG7');\
+    </gascript>\
+    <!-- End Google Analytics -->\
+    ".replace(/gascript/g, 'script'));
+    }
+    </script></head>
+  <body class="u-body"><header class="u-clearfix u-header u-sticky u-header" id="sec-57ec"><div class="u-clearfix u-sheet u-valign-top u-sheet-1">
+        <a href="Start.html#sec-afb5" data-page-id="58802511" class="u-image u-logo u-image-1" title="Home">
+          <img src="images/mikiiculogo2.png" class="u-logo-image u-logo-image-1" data-image-width="190">
+        </a>
+        <nav class="u-align-right u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1" data-responsive-from="XS">
+          <div class="menu-collapse" style="font-size: 1.875rem; letter-spacing: 0px;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-custom-color-1" href="#" style="font-size: calc(1em + 24px); padding: 12px 34px; background-image: none;">
+              <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 302 302" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7b92"></use></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-7b92" x="0px" y="0px" viewBox="0 0 302 302" style="enable-background:new 0 0 302 302;" xml:space="preserve" class="u-svg-content"><g><rect y="36" width="302" height="30"></rect><rect y="236" width="302" height="30"></rect><rect y="136" width="302" height="30"></rect>
+</g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-afb5" data-page-id="58802511" style="padding: 6px 0px;">Welcome</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-6003" data-page-id="58802511" style="padding: 6px 0px;">Science</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-60f0" data-page-id="58802511" style="padding: 6px 0px;">Nature and sport</a><div class="u-nav-popup"><ul class="u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Start.html#sec-8438" data-page-id="58802511">Paragliding</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Start.html#sec-962d" data-page-id="58802511">Gold panning</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-a2c3" data-page-id="58802511" style="padding: 6px 0px;">Music</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-afb5" data-page-id="58802511" style="padding: 6px 0px;">Welcome</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-6003" data-page-id="58802511" style="padding: 6px 0px;">Science</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-60f0" data-page-id="58802511" style="padding: 6px 0px;">Nature and sport</a><div class="u-nav-popup"><ul class="u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-8438" data-page-id="58802511">Paragliding</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-962d" data-page-id="58802511">Gold panning</a>
+</li></ul>
+</div>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-a2c3" data-page-id="58802511" style="padding: 6px 0px;">Music</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-section-1" id="sec-860e">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"><!--blog--><!--blog_options_json--><!--{"type":"Recent","source":"","tags":"","count":3}--><!--/blog_options_json-->
+        <div class="u-blog u-expanded-width u-repeater u-repeater-1"><!--blog_post-->
+          <div class="u-blog-post u-container-style u-repeater-item u-white u-repeater-item-1">
+            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1"><!--blog_post_header-->
+              <h4 class="u-blog-control u-text u-text-1">
+                <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 1 Headline<!--/blog_post_header_content--></a>
+              </h4><!--/blog_post_header--><!--blog_post_image-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-1" src="images/3.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <div class="u-blog-control u-post-content u-text u-text-2"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
+              <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-1"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
+            </div>
+          </div><!--/blog_post--><!--blog_post-->
+          <div class="u-blog-post u-container-style u-repeater-item u-video-cover u-white">
+            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2"><!--blog_post_header-->
+              <h4 class="u-blog-control u-text u-text-3">
+                <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 2 Headline<!--/blog_post_header_content--></a>
+              </h4><!--/blog_post_header--><!--blog_post_image-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-2" src="images/4.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <div class="u-blog-control u-post-content u-text u-text-4"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
+              <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-2"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
+            </div>
+          </div><!--/blog_post--><!--blog_post-->
+          <div class="u-blog-post u-container-style u-repeater-item u-video-cover u-white">
+            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3"><!--blog_post_header-->
+              <h4 class="u-blog-control u-text u-text-5">
+                <a class="u-post-header-link" href="#"><!--blog_post_header_content-->Post 3 Headline<!--/blog_post_header_content--></a>
+              </h4><!--/blog_post_header--><!--blog_post_image-->
+              <img alt="" class="u-blog-control u-image u-image-default u-image-3" src="images/5.jpeg"><!--/blog_post_image--><!--blog_post_content-->
+              <div class="u-blog-control u-post-content u-text u-text-6"><!--blog_post_content_content-->Sample small text. Lorem ipsum dolor sit amet.<!--/blog_post_content_content--></div><!--/blog_post_content--><!--blog_post_readmore-->
+              <a href="#" class="u-blog-control u-border-2 u-border-palette-1-base u-btn u-btn-rectangle u-button-style u-none u-btn-3"><!--blog_post_readmore_content-->Read More<!--/blog_post_readmore_content--></a><!--/blog_post_readmore-->
+            </div>
+          </div><!--/blog_post-->
+        </div><!--/blog-->
+      </div>
+    </section>
+    <section class="u-clearfix u-section-2" id="sec-c9a3">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <ul class="responsive-style1 u-pagination u-unstyled u-pagination-1">
+          <li class="disabled prev u-nav-item u-pagination-item">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">〈</a>
+          </li>
+          <li class="active u-nav-item u-pagination-item">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">1</a>
+          </li>
+          <li class="u-nav-item u-pagination-item">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">2</a>
+          </li>
+          <li class="u-nav-item u-pagination-item">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">3</a>
+          </li>
+          <li class="u-nav-item u-pagination-item u-pagination-separator">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">...</a>
+          </li>
+          <li class="u-nav-item u-pagination-item">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">8</a>
+          </li>
+          <li class="next u-nav-item u-pagination-item">
+            <a class="u-button-style u-nav-link" href="#" style="padding: 16px 28px;">〉</a>
+          </li>
+        </ul>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-0f9e"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+      </div></footer>
+  </body>
+</html>
