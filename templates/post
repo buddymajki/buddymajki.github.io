@@ -29,7 +29,7 @@
     <meta property="og:url" content="index.html">
   </head>
   <body class="u-body"><header class="u-clearfix u-header u-sticky u-header" id="sec-57ec"><div class="u-clearfix u-sheet u-valign-top u-sheet-1">
-        <a href="Home.html" data-page-id="58802511" class="u-image u-logo u-image-1" title="Home">
+        <a href="Start.html" data-page-id="58802511" class="u-image u-logo u-image-1" title="Home">
           <img src="images/mikiiculogo2.png" class="u-logo-image u-logo-image-1" data-image-width="190">
         </a>
         <nav class="u-align-right u-menu u-menu-dropdown u-nav-spacing-25 u-offcanvas u-menu-1" data-responsive-from="XS">
@@ -41,26 +41,26 @@
             </a>
           </div>
           <div class="u-custom-menu u-nav-container">
-            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Home.html" style="padding: 6px 0px;">Home</a>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Home.html#sec-6003" data-page-id="58802511" style="padding: 6px 0px;">Science</a>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Home.html#sec-60f0" data-page-id="58802511" style="padding: 6px 0px;">Nature and sport</a><div class="u-nav-popup"><ul class="u-h-spacing-0 u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Home.html#sec-8438" data-page-id="58802511">Paragliding</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Home.html#sec-962d" data-page-id="58802511">Gold panning</a>
+            <ul class="u-nav u-spacing-30 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-afb5" data-page-id="58802511" style="padding: 6px 0px;">Welcome</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-6003" data-page-id="58802511" style="padding: 6px 0px;">Science</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-60f0" data-page-id="58802511" style="padding: 6px 0px;">Nature and sport</a><div class="u-nav-popup"><ul class="u-nav u-unstyled u-v-spacing-10 u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Start.html#sec-8438" data-page-id="58802511">Paragliding</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Start.html#sec-962d" data-page-id="58802511">Gold panning</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Home.html#sec-a2c3" data-page-id="58802511" style="padding: 6px 0px;">Music</a>
+</li><li class="u-nav-item"><a class="u-border-2 u-border-active-palette-1-base u-border-hover-palette-1-light-1 u-border-no-left u-border-no-right u-border-no-top u-button-style u-nav-link u-text-active-grey-15 u-text-custom-color-1 u-text-hover-grey-5" href="Start.html#sec-a2c3" data-page-id="58802511" style="padding: 6px 0px;">Music</a>
 </li></ul>
           </div>
           <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-align-center u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html" style="padding: 6px 0px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-6003" data-page-id="58802511" style="padding: 6px 0px;">Science</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-60f0" data-page-id="58802511" style="padding: 6px 0px;">Nature and sport</a><div class="u-nav-popup"><ul class="u-h-spacing-0 u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Home.html#sec-8438" data-page-id="58802511">Paragliding</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-grey-30 u-text-hover-grey-15" href="Home.html#sec-962d" data-page-id="58802511">Gold panning</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-3"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-afb5" data-page-id="58802511" style="padding: 6px 0px;">Welcome</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-6003" data-page-id="58802511" style="padding: 6px 0px;">Science</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-60f0" data-page-id="58802511" style="padding: 6px 0px;">Nature and sport</a><div class="u-nav-popup"><ul class="u-nav u-unstyled u-v-spacing-10 u-nav-4"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-8438" data-page-id="58802511">Paragliding</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-962d" data-page-id="58802511">Gold panning</a>
 </li></ul>
 </div>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.html#sec-a2c3" data-page-id="58802511" style="padding: 6px 0px;">Music</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Start.html#sec-a2c3" data-page-id="58802511" style="padding: 6px 0px;">Music</a>
 </li></ul>
               </div>
             </div>
@@ -91,16 +91,5 @@
     <footer class="u-align-center u-clearfix u-footer u-grey-80 u-footer" id="sec-0f9e"><div class="u-clearfix u-sheet u-sheet-1">
         <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
       </div></footer>
-    <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
-        <span>Website Templates</span>
-      </a>
-      <p class="u-text">
-        <span>created with</span>
-      </p>
-      <a class="u-link" href="https://nicepage.com/" target="_blank">
-        <span>Website Builder Software</span>
-      </a>. 
-    </section>
   </body>
 </html>
